@@ -25,3 +25,7 @@
 ## RocketSeat links
 <p><a href="https://rocketseat.com.br">Rocketseat Site</a></p>
 <p><a href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">Youtube Rocketseat</p>
+
+
+# :key: start server
+<p> npm run dev </p>
