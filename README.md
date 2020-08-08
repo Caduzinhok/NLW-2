@@ -1,12 +1,12 @@
-# Next Level Week.
+# :mortar_board: Next Level Week. 
 
-## Teacher Search Platform.
+## :orange_book: Teacher Search Platform.
 
 . Initial page with buttons to send you to send you to a page to register as a teacher.
 . Study Page for search some teacher according to your available schedule.
 . Give Classes page to register as a teacher, as a teacher you can find your form on the study page.
 
-## Install on this project.
+## :green_book: Install on this project.
 
 . Node JS.
 . Git Bash for windogitws to run the server on real time.
@@ -14,7 +14,7 @@
 . Sqlite for data base.
 . Template
 
-## My learn journey.
+## :blue_book: My learn journey.
 
 . I'm learn about templates
 . How create a data base using Sqlite
