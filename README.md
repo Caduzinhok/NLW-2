@@ -28,4 +28,4 @@
 
 
 # :key: start server
-<p><strong> npm run dev </strong></p>
+<p><strong> :arrow_right: npm run dev :arrow_left:</strong></p>
